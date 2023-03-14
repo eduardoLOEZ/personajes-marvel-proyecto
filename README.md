@@ -5,3 +5,5 @@ y el paquete cheerio para extraer datos de una pagina y asi guardar los personaj
 Al final hacer deployment de la API para asi hacer una peticion a la url y renderizar los datos ✔
 
 Desarrollado por Jesus Eduardo Loeza Cebrero 👨‍💻
+
+![](file:///C:/Users/alumno/Downloads/arquitecturaExpress-7ccd71ea-b5ae-4990-ad4d-d8578dfced3c.webp)
