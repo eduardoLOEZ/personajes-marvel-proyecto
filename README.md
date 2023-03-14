@@ -6,4 +6,4 @@ Al final hacer deployment de la API para asi hacer una peticion a la url y rende
 
 Desarrollado por Jesus Eduardo Loeza Cebrero 👨‍💻
 
-![](file:///C:/Users/alumno/Downloads/arquitecturaExpress-7ccd71ea-b5ae-4990-ad4d-d8578dfced3c.webp)
+![](https://static.platzi.com/media/user_upload/arquitecturaExpress-7ccd71ea-b5ae-4990-ad4d-d8578dfced3c.jpg)
