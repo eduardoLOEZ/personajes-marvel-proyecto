@@ -1,0 +1,27 @@
+.text{
+    color: white;
+}
+
+.container-fluid{
+    background-color: red;
+}
+
+#container {
+    display: grid; /* Establece la rejilla en el contenedor */
+    grid-template-columns: 1fr 1fr 1fr; /* Establece el ancho de las columnas */
+    grid-template-rows: auto; /* Establece la altura de las filas */
+    grid-gap: 1rem; /* Establece el espacio entre las celdas */
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 1rem;
+}
+  
+.grid > div {
+    border: 1px solid black;
+    padding: 1rem;
+    text-align: center;
+}
+  
