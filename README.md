@@ -7,4 +7,4 @@ Al final hacer deployment de la API para asi hacer una peticion al servidor y re
 Desarrollado por Jesus Eduardo Loeza Cebrero 👨‍💻
 
 
-![Frontend](https://user-images.githubusercontent.com/84247208/228113465-8dce7d26-1786-4f13-bb06-e91800f12e09.png)
+
